@@ -18,3 +18,7 @@
 [title](https://www.google.com/)
 
 `console.Log("Hello World!")`
+
+-[X] Write Read me repo
+- [] Update repository
+- [] Fix bug
