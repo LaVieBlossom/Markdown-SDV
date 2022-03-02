@@ -1,3 +1,6 @@
+
+![RosesnThorns](C:\Users\abbyb\OneDrive\Documents\SDV503)
+
 ## Transformed
 
 *We can complain because rose bushes have thorns, or rejoice because thorn bushes have roses. – Anonymous* 
